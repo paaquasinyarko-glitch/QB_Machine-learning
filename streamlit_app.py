@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 Perfect CV Builder')
 
-st.write('Hello world!')
+st.write('This is a Perfect CV building App for professionals!')
