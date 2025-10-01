@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Machine learning App
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+This is a CV builder machine learning App
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://perfectcvbuilder.streamlit.app/)
 
 ## GitHub Codespaces
 
