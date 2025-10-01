@@ -1,4 +1,4 @@
-# 📦 Machine learning App
+# 📦 QB_Machine Learning App
 ```
 ⬆️ (Replace above with your app's name)
 ```
